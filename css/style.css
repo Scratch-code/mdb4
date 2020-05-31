@@ -12,3 +12,10 @@ header,
     -o-background-size: cover;
     background-size: cover;
 }
+
+.ardenblack{
+    background-color: black;
+}
+.ardenorange{
+ color: #ff8600;
+}
